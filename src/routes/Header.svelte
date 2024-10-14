@@ -1,6 +1,6 @@
 <div>
 	<a href="https://avanderw.co.za"><svg><use href="feather-sprite.svg#home" /></svg>Home</a>
-	<a href="https://github.com/avanderw/sudoku">
+	<a href="https://github.com/avanderw/image-flood-fill">
 		<svg><use href="feather-sprite.svg#github" /></svg>
 		Source
 	</a>
