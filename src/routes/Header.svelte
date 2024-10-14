@@ -17,6 +17,7 @@
 		justify-content: right;
 		gap: 2rem;
     font-size: smaller;
+    margin-bottom: 2rem;
 	}
   svg {
     width: 1rem;
